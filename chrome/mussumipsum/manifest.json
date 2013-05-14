@@ -1,0 +1,10 @@
+{
+  "name": "Mussum Ipsum",
+  "description": "Cacilds!!",
+  "version": "0.1",
+  "permissions": ["tabs", "http://*/*", "https://*/*", "contextMenus", "clipboardRead", "clipboardWrite"],
+  "background": {
+    "scripts": ["mussumipsum.js"]
+  },
+  "manifest_version": 2
+}
